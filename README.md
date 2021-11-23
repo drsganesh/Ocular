@@ -4,5 +4,5 @@ Handles both offline files and DICOMweb.
 Integrated radiology references and calculators.
 View study from Google Drive.
 
-https://aramis.ai/products/ocular
+https://app.aramis.ai/site/ocular.html
 https://app.aramis.ai
